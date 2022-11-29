@@ -1,4 +1,3 @@
-//Editeur: @HugoPouloulou
 #include<stdio.h>
 #include<string.h>
 int if_char_exists(char c, char p[],  int x, int y[])

@@ -1,5 +1,3 @@
-//Editeur: Hugo Pouloulou
-
 #include <stdio.h>
 
 int find_Nth_Digit(int n) {
